@@ -1,0 +1,39 @@
+# 关于
+
+这里是 AkulaKirov，可以叫我 **Akula**
+
+- 主修 C#，其他语言也会一些
+- 二本电子信息工程辍学，现在是半摸鱼半打工
+- 喜欢玩战争、历史、沙盒和模拟类游戏
+
+## 本站
+
+主要放一些技术经验或者教程性质的文章
+
+偶尔会放一些日常生活记录（应该没人看）
+
+## PGP 公钥
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: User:	PhotonSPK <libakula@outlook.com>
+Comment: Finger Print:	86147FDD6719D20A736F8B6A5AA3C654EB94F222
+
+mDMEZfK7cBYJKwYBBAHaRw8BAQdAtSdzMkzZubss9acFRFIa0r4m78qLd9rDPfkw
+1nBVj/W0IFBob3RvblNQSyA8bGliYWt1bGFAb3V0bG9vay5jb20+iJMEExYKADsW
+IQSGFH/dZxnSCnNvi2pao8ZU65TyIgUCZfK7cAIbAQULCQgHAgIiAgYVCgkICwIE
+FgIDAQIeBwIXgAAKCRBao8ZU65TyIvTXAQDT905QgZIcr2Fbr1MJYQDRfyKLPsMc
+/Q6JhTErYhxZyQEA7F9K4okMpVzbzY/uLFCV1cEpXm8mYX4qbNuP2zM+Pgm4MwRl
+8ruEFgkrBgEEAdpHDwEBB0CpblwnQk6cB2eLJ9ItBjo7q+DPHrP3u0LoFCDHvEca
+rIjvBBgWCgAgFiEEhhR/3WcZ0gpzb4tqWqPGVOuU8iIFAmXyu4QCGyIAgQkQWqPG
+VOuU8iJ2IAQZFgoAHRYhBFoevxeXmCVSXKJ33ceYG/pgu7yqBQJl8ruEAAoJEMeY
+G/pgu7yqpvMA/AqU68OdjGzMaWLG9M0dmYk+YZFFow3coJqXmvxRI+J+AP9vK8nV
+gI8NxJmLRWFM1ajlJbyTnsb85PZx+3dcT+xXCx/1AP43qj7iOImmN52S5qxWn+GA
+Ypdi+goYQQysGSxAAq3j+AEAiFvDi/m6eMrVnlgPxB5hvFp6YYnVsyxUiZhzbkZW
+Vwa4OARl8rulEgorBgEEAZdVAQUBAQdAQhK0+9+G4dOIUbL5fGlmrIzETw6PmZuA
+3FT/WpwI9VMDAQgHiHgEGBYKACAWIQSGFH/dZxnSCnNvi2pao8ZU65TyIgUCZfK7
+pQIbDAAKCRBao8ZU65TyIpOuAQCpafaQuNWsGhZASVfdUnyO0rQdMHyISAzm2JLt
+2h9++QD/QL34FWtCRY2gEtckEQeiWI5kFeMKQYjbSJLLPbxxVAU=
+=woUm
+-----END PGP PUBLIC KEY BLOCK-----
+```
