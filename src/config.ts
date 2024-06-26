@@ -8,7 +8,7 @@ import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
   title: 'Akula::Blog',
-  subtitle: '摸鱼小站 ',
+  subtitle: '摸鱼博客',
   lang: 'zh_CN', // 'en', 'zh_CN', 'zh_TW', 'ja'
   themeColor: {
     hue: 219, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
@@ -16,7 +16,7 @@ export const siteConfig: SiteConfig = {
   },
   banner: {
     enable: false,
-    src: 'assets/images/avatar.webp', // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+    src: 'https://avatars.githubusercontent.com/u/33571798', // Relative to the /src directory. Relative to the /public directory if it starts with '/'
     position: 'center', // Equivalent to object-position, defaults center
   },
   favicon: [
@@ -32,7 +32,7 @@ export const navBarConfig: NavBarConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'assets/images/avatar.webp', // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+  avatar: 'https://avatars.githubusercontent.com/u/33571798', // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: 'AkulaKirov',
   bio: 'per aspera ad astra.',
   links: [
